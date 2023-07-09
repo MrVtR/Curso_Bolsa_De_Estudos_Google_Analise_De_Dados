@@ -9,4 +9,4 @@ path: Curso 1 - Fundamento de Dados
 - Share
 - Act
 
-Próximo: [Transformar Dados em Insights](./Transformar%20Dados%20em%20Insights.md#)
+Próximo: [[./Transformar Dados em Insights|Transformar Dados em Insights]]
