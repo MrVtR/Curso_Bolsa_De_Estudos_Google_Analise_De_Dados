@@ -1,9 +1,7 @@
-
 ---
 share: true
 path: Curso 1 - Fundamento de Dados
 ---
-
 ## O que é um ecossistema de dados?
 - Elementos que interagem entre si com os dados (Hardware e Software):
 	- Produzir
