@@ -16,7 +16,7 @@ path: Curso 1 - Fundamento de Dados
 		- Criam novas questões usando dados existentes
 	- Analista:
 		- Encontram respostas para questões existentes com insights a partir das fontes de dados
-- Diferença entre Análise e Exploração de Dados (Analyzis and Analytics):
+- Diferença entre Análise e Exploração de Dados **(Analysis and Analytics)**:
 	- Análise:
 		- Coleta, transformação e organização de dados para tirar conclusões, fazer previsões e orientar a tomada de decisão informada.
 	- Exploração:
@@ -24,6 +24,13 @@ path: Curso 1 - Fundamento de Dados
 		- A Análise de Dados está contida na Exploração de Dados
 
 ## Como os dados informam melhores decisões
+- Tomada de Decisões com Base em Dados **(Data-driven Decisions Making)**
+	- Descobrir o que a empresa precisa - Um problema a ser resolvido
+	- Encontrar e Analisar os dados
+	- Usar os dados para descobrir tendências, padrões e relações
+	- A tomada de decisões pode dar um novo rumo a uma empresa, tornando seu método de trabalho atual obsoleto ou melhorar os padrões que já existem no presente
+	- Especialistas no Assunto (**Subject Matter Experts**)
+		- Examinam as análises de dados e encontram inconsistências nos dados. Também atuam na compreensão de áreas indefinidas e validam as escolhas feitas até então.
 
 
 
