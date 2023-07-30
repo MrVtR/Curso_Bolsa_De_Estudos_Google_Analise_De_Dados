@@ -19,3 +19,10 @@ path: Curso 1 - Fundamento de Dados
 		- Descobrir os aspectos que irão ajudar um plano criado
 
 ## Como Explorar as Principais Habilidades Analíticas
+- Perguntas que analistas fazem:
+	- "Qual a causa raiz do problema?" (Motivo que um problema ocorre)
+		- Cinco Por quês - Estratégia para chegar na raiz
+	- "Onde estão as lacunas em nosso processo?"
+		- Análise de Lacunas
+	- "O que não consideramos antes?""
+Próximo: [[./Pensamento nos Resultados|Pensamento nos Resultados]]
