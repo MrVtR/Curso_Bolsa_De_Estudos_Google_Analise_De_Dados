@@ -1,7 +1,3 @@
----
-share: true
-path: Curso 1 - Fundamento de Dados
----
 ## Principais Habilidades de Analistas de Dados
 - Habilidades:
 	- Curiosidade
@@ -10,5 +6,5 @@ path: Curso 1 - Fundamento de Dados
 	- Design de Dados
 	- Estratégia de Dados
 
-Próximo: [[./Reflexões sobre o Pensamento Analítico|Reflexões sobre o Pensamento Analítico]]
+Próximo: [[Reflexões sobre o Pensamento Analítico]]
 

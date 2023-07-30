@@ -1,7 +1,3 @@
----
-share: true
-path: Curso 1 - Fundamento de Dados
----
 ## Uso de dados para gerar resultados de sucesso
 - Decisões com Base em Dados levam a melhores resultados
 	- Fazer uma pesquisa por exemplo

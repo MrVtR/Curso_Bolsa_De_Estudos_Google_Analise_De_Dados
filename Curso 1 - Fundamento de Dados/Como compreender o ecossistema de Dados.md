@@ -1,7 +1,3 @@
----
-share: true
-path: Curso 1 - Fundamento de Dados
----
 ## O que é um ecossistema de dados?
 - Elementos que interagem entre si com os dados (Hardware e Software):
 	- Produzir
@@ -32,7 +28,7 @@ path: Curso 1 - Fundamento de Dados
 	- Especialistas no Assunto (**Subject Matter Experts**)
 		- Examinam as análises de dados e encontram inconsistências nos dados. Também atuam na compreensão de áreas indefinidas e validam as escolhas feitas até então.
 
-Próximos: [[./Adotar suas Habilidades de Analista de Dados|Adotar suas Habilidades de Analista de Dados]]
+Próximos: [[Adotar suas Habilidades de Analista de Dados]]
 
 
 
