@@ -1,3 +1,7 @@
+---
+share: true
+path: Curso 1 - Fundamento de Dados
+---
 ## Tudo sobre o Pensamento Analítico
 - "O pensamento analítico envolve a identificação e a definição de um problema e, em seguida, a resolução usando dados de maneira organizada e passo a passo."
 - Os 5 Aspectos Principais do Pensamento Analítico:
@@ -21,4 +25,4 @@
 	- "Onde estão as lacunas em nosso processo?"
 		- Análise de Lacunas
 	- "O que não consideramos antes?""
-Próximo: [[Pensamento nos Resultados]]
+Próximo: [Pensamento nos Resultados](./Pensamento%20nos%20Resultados.md)
