@@ -7,4 +7,4 @@ path: Curso 1 - Fundamento de Dados
 	- Statistics
 	- Analytics
 
-Próximo: [Transformar Dados em Insights](Transformar%20Dados%20em%20Insights.md)
+Próximo: [Fases da Análise de Dados](Fases%20da%20An%C3%A1lise%20de%20Dados.md)
