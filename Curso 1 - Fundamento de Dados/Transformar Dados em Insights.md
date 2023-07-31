@@ -8,3 +8,4 @@ path: Curso 1 - Fundamento de Dados
 	- Analytics
 
 Próximo: [Pensamento nos Resultados](Pensamento%20nos%20Resultados.md)
+
