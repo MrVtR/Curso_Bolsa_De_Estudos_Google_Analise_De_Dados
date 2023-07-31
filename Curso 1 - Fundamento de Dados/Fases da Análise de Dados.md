@@ -1,3 +1,7 @@
+---
+share: true
+path: Curso 1 - Fundamento de Dados
+---
 - Ask
 - Prepare
 - Process
@@ -5,4 +9,4 @@
 - Share
 - Act
 
-Próximo: [[Transformar Dados em Insights]]
+Próximo: [[./Transformar Dados em Insights|Transformar Dados em Insights]]
