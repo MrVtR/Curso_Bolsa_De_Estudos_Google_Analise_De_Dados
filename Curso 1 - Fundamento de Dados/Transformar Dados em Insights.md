@@ -7,4 +7,4 @@ path: Curso 1 - Fundamento de Dados
 	- Statistics
 	- Analytics
 
-Próximo: [[./Como compreender o ecossistema de Dados|Como compreender o ecossistema de Dados]]
+Próximo: [Pensamento nos Resultados](Pensamento%20nos%20Resultados.md)
