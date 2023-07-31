@@ -10,5 +10,5 @@ path: Curso 1 - Fundamento de Dados
 	- Design de Dados
 	- Estratégia de Dados
 
-Próximo: [[./Reflexões sobre o Pensamento Analítico|Reflexões sobre o Pensamento Analítico]]
+Próximo: [Reflexões sobre o Pensamento Analítico](Reflex%C3%B5es%20sobre%20o%20Pensamento%20Anal%C3%ADtico.md)
 
