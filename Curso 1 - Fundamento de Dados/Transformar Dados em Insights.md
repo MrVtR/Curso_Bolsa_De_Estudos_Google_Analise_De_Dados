@@ -7,4 +7,4 @@ path: Curso 1 - Fundamento de Dados
 	- Statistics
 	- Analytics
 
-Próximo: [Pensamento nos Resultados](./Pensamento%20nos%20Resultados.md)
+Próximo: [Transformar Dados em Insights](Transformar%20Dados%20em%20Insights.md)
