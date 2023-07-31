@@ -25,4 +25,4 @@ path: Curso 1 - Fundamento de Dados
 	- "Onde estão as lacunas em nosso processo?"
 		- Análise de Lacunas
 	- "O que não consideramos antes?""
-Próximo: [Pensamento nos Resultados](./Pensamento%20nos%20Resultados.md)
+Próximo: [Pensamento nos Resultados](Pensamento%20nos%20Resultados.md)
